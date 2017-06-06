@@ -1,2 +1,2 @@
 # bash_linux_reporter
-reports system stats for linux
+Reports system stats for Linux.
