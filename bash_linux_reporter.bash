@@ -1,4 +1,6 @@
 #!/bin/bash
+#Linux Stats Reporter
+#enter email to turn on emailing 
 EMAIL=''
 function sysstat {
 echo -e "
